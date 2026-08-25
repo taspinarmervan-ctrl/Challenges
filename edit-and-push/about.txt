@@ -1,6 +1,5 @@
-Name: 
+Name: Mervan
 Course: Intro to Terminal
 Year: 2026
 
-Tell us a bit about yourself:
-
+Tell us a bit about yourself: Hei jeg er Mervan
